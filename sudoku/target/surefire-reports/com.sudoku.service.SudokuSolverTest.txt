@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sudoku.service.SudokuSolverTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.024 s -- in com.sudoku.service.SudokuSolverTest

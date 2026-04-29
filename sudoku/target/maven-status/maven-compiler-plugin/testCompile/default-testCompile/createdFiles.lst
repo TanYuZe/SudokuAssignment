@@ -1,0 +1,5 @@
+com\sudoku\service\PuzzleGeneratorTest.class
+com\sudoku\service\SudokuSolverTest.class
+com\sudoku\service\CommandParserTest.class
+com\sudoku\model\SudokuGridTest.class
+com\sudoku\service\SudokuValidatorTest.class
